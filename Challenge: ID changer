@@ -30,7 +30,7 @@
     <script>
     var nameEl = document.getElementById("id-name");
         console.log(nameEl);
-        nameEl.innerHTML = "Kashyap Achar"
+        nameEl.innerHTML = "Name Here"
     </script>
     </body>
 </html>
